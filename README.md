@@ -1,4 +1,4 @@
-🛒 Instacart Predictions
+🛒 INSTACART PREDICTIONS 
 This project focuses on analyzing and predicting customer purchasing behavior using Instacart datasets provided by Kaggle. It is structured into two key phases: data exploration and predictive modeling, each documented in a separate Jupyter notebook.
 
 📁 Project Structure
@@ -30,7 +30,7 @@ Comparing model performance using metrics like accuracy, F1 score, and AUC
 
 Generating final predictions on test data
 
-📊 Dataset
+📊 DATASET
 The data used in this project is publicly available on Kaggle - Instacart Market Basket Analysis. It includes information on customer orders, products, departments, and aisles.
 
 ⚙️ Requirements
@@ -51,7 +51,7 @@ bash
 pip install -r requirements.txt
 
 
-🔍 Goal
+🔍 GOAL
 To understand customer purchasing behavior and accurately predict future reorders, helping improve inventory planning and personalized marketing in e-commerce.
 
 📄 License
